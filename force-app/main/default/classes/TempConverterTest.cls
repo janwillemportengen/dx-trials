@@ -6,7 +6,7 @@ public with sharing class TempConverterTest {
     }
     
     @isTest static void testFreezingPoint() {
-        Decimal celsius = TempConverter.FahrenheitToCelsius(32);
+        Decimal celsius = TempConverter.FahrenheitToCelsius(33);
         System.assertEquals(0,celsius);
     }
 
