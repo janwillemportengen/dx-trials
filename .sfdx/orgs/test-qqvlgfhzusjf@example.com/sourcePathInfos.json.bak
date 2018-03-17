@@ -1,0 +1,205 @@
+[
+    [
+        "/Users/jportengen/Werk/development/source/repos/dx-trials/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jportengen/Werk/development/source/repos/dx-trials/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1521300956679,
+            "changeTime": 1521300956679,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/jportengen/Werk/development/source/repos/dx-trials/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jportengen/Werk/development/source/repos/dx-trials/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1521300956679,
+            "changeTime": 1521300956679,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jportengen/Werk/development/source/repos/dx-trials/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jportengen/Werk/development/source/repos/dx-trials/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1521301568227,
+            "changeTime": 1521301568227,
+            "contentHash": "4cfd1989fa44dd1a317ae36b127a22da3b8eae1b"
+        }
+    ],
+    [
+        "/Users/jportengen/Werk/development/source/repos/dx-trials/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jportengen/Werk/development/source/repos/dx-trials/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1521300956679,
+            "changeTime": 1521300956679,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jportengen/Werk/development/source/repos/dx-trials",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jportengen/Werk/development/source/repos/dx-trials",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 288,
+            "modifiedTime": 1521301159206,
+            "changeTime": 1521301159206,
+            "contentHash": "482aba1731d0a586e52ba05892f68b26d69ba4fe",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jportengen/Werk/development/source/repos/dx-trials/force-app/main/default/objects/DxTrial__c/DxTrial__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jportengen/Werk/development/source/repos/dx-trials/force-app/main/default/objects/DxTrial__c/DxTrial__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2132,
+            "modifiedTime": 1521301568217,
+            "changeTime": 1521301568217,
+            "contentHash": "5cb32b77bbf8c63f3677041bc97faf4d32b4ae70"
+        }
+    ],
+    [
+        "/Users/jportengen/Werk/development/source/repos/dx-trials/force-app/main/default/layouts/DxTrial__c-Lay-out voor DxTrial.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jportengen/Werk/development/source/repos/dx-trials/force-app/main/default/layouts/DxTrial__c-Lay-out voor DxTrial.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1947,
+            "modifiedTime": 1521301568222,
+            "changeTime": 1521301568222,
+            "contentHash": "11d783040f4136795b5cfb29705ebffa45e29dff"
+        }
+    ],
+    [
+        "/Users/jportengen/Werk/development/source/repos/dx-trials/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jportengen/Werk/development/source/repos/dx-trials/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4431,
+            "modifiedTime": 1521301568229,
+            "changeTime": 1521301568229,
+            "contentHash": "bdb67788165330093902f711349290719f7b69fe"
+        }
+    ],
+    [
+        "/Users/jportengen/Werk/development/source/repos/dx-trials/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jportengen/Werk/development/source/repos/dx-trials/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4769,
+            "modifiedTime": 1521301568233,
+            "changeTime": 1521301568233,
+            "contentHash": "1e02cf6d955aac1cdeb3d722d3e3a58c6d40d007"
+        }
+    ],
+    [
+        "/Users/jportengen/Werk/development/source/repos/dx-trials/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jportengen/Werk/development/source/repos/dx-trials/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17820,
+            "modifiedTime": 1521301568247,
+            "changeTime": 1521301568247,
+            "contentHash": "d64a76857adfcd756037d9ab3a2abc33316093ee"
+        }
+    ],
+    [
+        "/Users/jportengen/Werk/development/source/repos/dx-trials/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jportengen/Werk/development/source/repos/dx-trials/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4431,
+            "modifiedTime": 1521301568250,
+            "changeTime": 1521301568250,
+            "contentHash": "bdb67788165330093902f711349290719f7b69fe"
+        }
+    ],
+    [
+        "/Users/jportengen/Werk/development/source/repos/dx-trials/force-app/main/default/objects/DxTrial__c",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jportengen/Werk/development/source/repos/dx-trials/force-app/main/default/objects/DxTrial__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1521301568217,
+            "changeTime": 1521301568217,
+            "contentHash": "3c88981e117dc83a81d45c4145301ab7d4cb17a8"
+        }
+    ],
+    [
+        "/Users/jportengen/Werk/development/source/repos/dx-trials/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jportengen/Werk/development/source/repos/dx-trials/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1521301568216,
+            "changeTime": 1521301568216,
+            "contentHash": "02a247c432a6ac2e38c4dca95020b134c8fa6c1e"
+        }
+    ],
+    [
+        "/Users/jportengen/Werk/development/source/repos/dx-trials/force-app/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jportengen/Werk/development/source/repos/dx-trials/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1521301568222,
+            "changeTime": 1521301568222,
+            "contentHash": "c5d71ed91f67acad6353e471c4a8d9575b9d4760"
+        }
+    ],
+    [
+        "/Users/jportengen/Werk/development/source/repos/dx-trials/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jportengen/Werk/development/source/repos/dx-trials/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1521301568250,
+            "changeTime": 1521301568250,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]
